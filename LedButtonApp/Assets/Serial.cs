@@ -100,7 +100,7 @@ public class Serial : MonoBehaviour
             }
 
         }
-          if (ledSelector.options[ledSelector.value].text == "2")
+        else if (ledSelector.options[ledSelector.value].text == "2")
         {
             if (ledState.options[ledState.value].text == "ON")
             {
@@ -112,7 +112,7 @@ public class Serial : MonoBehaviour
             }
 
         }
-          if (ledSelector.options[ledSelector.value].text == "3")
+        else if (ledSelector.options[ledSelector.value].text == "3")
         {
             if (ledState.options[ledState.value].text == "ON")
             {

@@ -1,0 +1,12 @@
+#line 1 "/home/pop-os/Interactivos/Unidad2/sf1-unidad2-ev-2022-20-aaaaaaaaas/sf1-unidad2-ev-2022-20-aaaaaaaaas/LedButtonApp/Library/PackageCache/com.unity.modules.cloth@1.0.0/package.json"
+{
+    "name": "com.unity.modules.cloth",
+    "version": "1.0.0",
+    "type": "module",
+    "displayName": "Cloth",
+    "description": "The Cloth module implements cloth physics simulation through the Cloth component. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.ClothModule.html",
+    "icon": ".icon.png",
+    "dependencies": {
+        "com.unity.modules.physics": "1.0.0"
+    }
+}

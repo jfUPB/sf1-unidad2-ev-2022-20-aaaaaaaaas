@@ -1,4 +1,4 @@
-/home/pop-os/sf1-unidad2-ev-2022-20-aaaaaaaaas/build/core/WMath.cpp.o: \
+/home/pop-os/Interactivos/Unidad2/sf1-unidad2-ev-2022-20-aaaaaaaaas/sf1-unidad2-ev-2022-20-aaaaaaaaas/build/core/WMath.cpp.o: \
  /home/pop-os/Apps/arduino-1.8.19-linux64/arduino-1.8.19/portable/packages/esp32/hardware/esp32/2.0.4/cores/esp32/WMath.cpp \
  /home/pop-os/Apps/arduino-1.8.19-linux64/arduino-1.8.19/portable/packages/esp32/hardware/esp32/2.0.4/tools/sdk/esp32/include/esp_system/include/esp_system.h \
  /home/pop-os/Apps/arduino-1.8.19-linux64/arduino-1.8.19/portable/packages/esp32/hardware/esp32/2.0.4/tools/sdk/esp32/include/esp_common/include/esp_err.h \
